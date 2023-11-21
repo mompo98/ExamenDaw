@@ -1,2 +1,5 @@
 Honda
 Yamaha
+Suzuki
+Kawasaki
+Seat
